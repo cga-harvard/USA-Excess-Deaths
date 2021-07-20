@@ -1,0 +1,181 @@
+Sub Suppressed_Process()
+'
+' Suppressed_Process Macro
+'
+
+Dim ws As Worksheet
+Dim starting_ws As Worksheet
+Set starting_ws = ActiveSheet 'remember which worksheet is active in the beginning
+For Each ws In ThisWorkbook.Worksheets
+    ws.Activate
+If ws.Name <> "State XRef" Then
+    
+  ' 17-Jan-2021 Following code added for tackling All Suppressed Situation
+    Range("U29").Select
+    ActiveCell.FormulaR1C1 = "=IF(COUNTIF(R[-27]C[-19]:R[-7]C[-8],""<>Suppressed"")>0,0,1)"
+    Range("U30").Select
+    
+    
+    
+    
+    
+    Range("R1").Select
+    ActiveCell.FormulaR1C1 = _
+        "=MID(@CELL(""filename""),FIND(""]"",@CELL(""filename""))+1,255)"
+    Range("R1").Select
+    Columns("R:R").ColumnWidth = 10
+    Range("S1").Select
+    ActiveCell.FormulaR1C1 = "=LEFT(RC[-1],FIND("","",RC[-1])-1)"
+    Range("T1").Select
+    ActiveCell.FormulaR1C1 = "=RIGHT(RC[-2],LEN(RC[-2])-FIND("","",RC[-2])-1)"
+    Range("T2").Select
+    ActiveWindow.SmallScroll Down:=-3
+    Range("U1").Select
+    ActiveCell.FormulaR1C1 = _
+        "=INDEX('State XRef'!RC[-20]:R[56]C[-12],MATCH(RC[-2],'State XRef'!RC[-18]:R[56]C[-18],0),4)"
+    Range("V1").Select
+    ActiveCell.FormulaR1C1 = _
+        "=INDEX('State XRef'!RC[-21]:R[56]C[-13],MATCH(RC[-1],'State XRef'!RC[-21]:R[56]C[-21],0),3)"
+    Range("V2").Select
+    Columns("V:V").ColumnWidth = 11
+    Range("W1").Select
+    ActiveCell.FormulaR1C1 = "=RC[-1]&"",""&RC[-3]"
+    Range("W1").Select
+    ActiveCell.FormulaR1C1 = "=RC[-1]&"", ""&RC[-3]"
+    Range("W2").Select
+    Columns("W:W").ColumnWidth = 15
+    Range("X1").Select
+    ActiveCell.FormulaR1C1 = "=""'""&RC[-1]&""'!"""
+    Range("X2").Select
+    Columns("X:X").ColumnWidth = 17
+    Range("A30").Select
+    ActiveWindow.SmallScroll Down:=15
+    Range("A30").Select
+    ActiveCell.FormulaR1C1 = "=ROW()-28"
+    Range("A30").Select
+    Selection.AutoFill Destination:=Range("A30:A50"), Type:=xlFillDefault
+    Range("A30:A50").Select
+    ActiveWindow.SmallScroll Down:=-24
+    Range("B30").Select
+    ActiveCell.FormulaR1C1 = "=@INDIRECT(R1C24&R23C&RC1)"
+    Range("B30").Select
+    Selection.ClearContents
+    Range("B23").Select
+    ActiveCell.FormulaR1C1 = _
+        "=MID(ADDRESS(ROW(),COLUMN()),2,SEARCH(""$"",ADDRESS(ROW(),COLUMN()),2)-2)"
+    Range("B23").Select
+    Selection.AutoFill Destination:=Range("B23:M23"), Type:=xlFillDefault
+    Range("B23:M23").Select
+    Range("B26").Select
+    ActiveCell.FormulaR1C1 = "=IFERROR(AVERAGE(R[-24]C:R[-4]C),0)"
+    Range("B26").Select
+    Selection.AutoFill Destination:=Range("B26:M26"), Type:=xlFillDefault
+    Range("B26:M26").Select
+    Range("B30").Select
+    ActiveCell.FormulaR1C1 = "=@INDIRECT(R1C24&R23C&RC1)"
+    Range("B30").Select
+    Selection.AutoFill Destination:=Range("B30:M30"), Type:=xlFillDefault
+    Range("B30:M30").Select
+    Selection.AutoFill Destination:=Range("B30:M50"), Type:=xlFillDefault
+    Range("B30:M50").Select
+    Range("B28").Select
+    ActiveCell.FormulaR1C1 = "=(R[1]C/R29C17)*100"
+    Range("B29").Select
+    ActiveCell.FormulaR1C1 = "=AVERAGE(R[1]C:R[21]C)"
+    Range("B29").Select
+    Selection.AutoFill Destination:=Range("B29:M29"), Type:=xlFillDefault
+    Range("B29:M29").Select
+    Range("B28").Select
+    ActiveCell.FormulaR1C1 = "=(R[1]C/R29C17)*100"
+    Range("B28").Select
+    ActiveCell.FormulaR1C1 = "=(R[1]C/R29C17)*100"
+    Range("Q29").Select
+    ActiveCell.FormulaR1C1 = "=SUM(RC[-15]:RC[-4])"
+    Range("B28").Select
+    Selection.AutoFill Destination:=Range("B28:M28"), Type:=xlFillDefault
+    Range("B28:M28").Select
+    Range("Q26").Select
+    ActiveCell.FormulaR1C1 = "=SUM(RC[-15]:RC[-4])"
+    Range("B24").Select
+    
+ '  17-Jan-2021 Following code commented and new code added for tackling 'All Suppressed' Situation
+ '   ActiveCell.FormulaR1C1 = _
+ '       "=IF(IFERROR(AVERAGE(R[-22]C:R[-2]C),0)=0,(R26C17*R[4]C)/100,IFERROR(AVERAGE(R[-22]C:R[-2]C),0))"
+ '   Range("B24").Select
+    
+    Range("B24").Select
+    ActiveCell.FormulaR1C1 = _
+        "=IF(R29C21=1,R[5]C,IF(IFERROR(AVERAGE(R[-22]C:R[-2]C),0)=0,(R26C17*R[4]C)/100,IFERROR(AVERAGE(R[-22]C:R[-2]C),0)))"
+    Range("B24").Select
+    
+    Selection.AutoFill Destination:=Range("B24:M24"), Type:=xlFillDefault
+    Range("B24:M24").Select
+    Range("Q24").Select
+    ActiveCell.FormulaR1C1 = "=SUM(RC[-15]:RC[-4])"
+    Range("B25").Select
+    ActiveCell.FormulaR1C1 = "=(R[-1]C/R24C17)*100"
+    Range("B25").Select
+    Selection.AutoFill Destination:=Range("B25:M25"), Type:=xlFillDefault
+    Range("B25:M25").Select
+    Range("Q24").Select
+    ActiveWindow.SmallScroll Down:=-33
+    Range("Q2").Select
+    ActiveCell.FormulaR1C1 = _
+        "=RC[-2]-IF(COUNTIF(RC[-15]:RC[-4],""Suppressed"")>=1,SUM(RC[-15]:RC[-4]))"
+    Range("Q2").Select
+    Selection.AutoFill Destination:=Range("Q2:Q22"), Type:=xlFillDefault
+    Range("Q2:Q22").Select
+    Range("T2").Select
+    ActiveCell.FormulaR1C1 = "=SUMIF(RC[-18]:RC[-7],""Suppressed"",R25C2:R25C13)"
+    Range("T2").Select
+    Selection.AutoFill Destination:=Range("T2:T22"), Type:=xlFillDefault
+    Range("T2:T22").Select
+    Range("V2").Select
+    ActiveCell.FormulaR1C1 = _
+        "=IF(RC[-20]=""Suppressed"",(RC17*R25C[-20])/RC20,RC[-20])"
+    Range("V2").Select
+    ActiveWindow.ScrollColumn = 2
+    Selection.AutoFill Destination:=Range("V2:AG2"), Type:=xlFillDefault
+    Range("V2:AG2").Select
+    Selection.AutoFill Destination:=Range("V2:AG22"), Type:=xlFillDefault
+    Range("V2:AG22").Select
+    Selection.Copy
+    ActiveWindow.ScrollColumn = 8
+    ActiveWindow.ScrollColumn = 7
+    ActiveWindow.ScrollColumn = 6
+    ActiveWindow.ScrollColumn = 5
+    ActiveWindow.ScrollColumn = 4
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 1
+    Range("B2").Select
+    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks _
+        :=False, Transpose:=False
+    Columns("N:N").Select
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 4
+    ActiveWindow.ScrollColumn = 5
+    ActiveWindow.ScrollColumn = 6
+    ActiveWindow.ScrollColumn = 7
+    Columns("N:AG").Select
+    Application.CutCopyMode = False
+    Selection.Delete Shift:=xlToLeft
+    ActiveWindow.ScrollColumn = 6
+    ActiveWindow.ScrollColumn = 5
+    ActiveWindow.ScrollColumn = 4
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 1
+    Rows("23:23").Select
+    ActiveWindow.SmallScroll Down:=18
+    Rows("23:50").Select
+    Selection.Delete Shift:=xlUp
+    ActiveWindow.SmallScroll Down:=-9
+    Range("B23").Select
+    ActiveWindow.SmallScroll Down:=-27
+    Range("A1").Select
+End If
+Next
+starting_ws.Activate 'activate the worksheet that was originally active
+End Sub

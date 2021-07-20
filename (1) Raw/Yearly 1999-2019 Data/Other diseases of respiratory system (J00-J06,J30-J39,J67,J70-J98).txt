@@ -1,0 +1,1138 @@
+Notes	State	State Code	Year	Year Code	Deaths
+	Alabama	1	1999	1999	606
+	Alabama	1	2000	2000	569
+	Alabama	1	2001	2001	601
+	Alabama	1	2002	2002	568
+	Alabama	1	2003	2003	568
+	Alabama	1	2004	2004	605
+	Alabama	1	2005	2005	637
+	Alabama	1	2006	2006	580
+	Alabama	1	2007	2007	682
+	Alabama	1	2008	2008	682
+	Alabama	1	2009	2009	720
+	Alabama	1	2010	2010	739
+	Alabama	1	2011	2011	751
+	Alabama	1	2012	2012	783
+	Alabama	1	2013	2013	784
+	Alabama	1	2014	2014	808
+	Alabama	1	2015	2015	880
+	Alabama	1	2016	2016	920
+	Alabama	1	2017	2017	962
+	Alabama	1	2018	2018	960
+	Alabama	1	2019	2019	931
+	Alaska	2	1999	1999	27
+	Alaska	2	2000	2000	19
+	Alaska	2	2001	2001	28
+	Alaska	2	2002	2002	34
+	Alaska	2	2003	2003	32
+	Alaska	2	2004	2004	41
+	Alaska	2	2005	2005	51
+	Alaska	2	2006	2006	48
+	Alaska	2	2007	2007	49
+	Alaska	2	2008	2008	42
+	Alaska	2	2009	2009	49
+	Alaska	2	2010	2010	46
+	Alaska	2	2011	2011	58
+	Alaska	2	2012	2012	35
+	Alaska	2	2013	2013	45
+	Alaska	2	2014	2014	41
+	Alaska	2	2015	2015	52
+	Alaska	2	2016	2016	57
+	Alaska	2	2017	2017	51
+	Alaska	2	2018	2018	68
+	Alaska	2	2019	2019	59
+	Arizona	4	1999	1999	414
+	Arizona	4	2000	2000	400
+	Arizona	4	2001	2001	489
+	Arizona	4	2002	2002	411
+	Arizona	4	2003	2003	420
+	Arizona	4	2004	2004	466
+	Arizona	4	2005	2005	481
+	Arizona	4	2006	2006	525
+	Arizona	4	2007	2007	458
+	Arizona	4	2008	2008	483
+	Arizona	4	2009	2009	545
+	Arizona	4	2010	2010	517
+	Arizona	4	2011	2011	535
+	Arizona	4	2012	2012	503
+	Arizona	4	2013	2013	523
+	Arizona	4	2014	2014	564
+	Arizona	4	2015	2015	609
+	Arizona	4	2016	2016	639
+	Arizona	4	2017	2017	717
+	Arizona	4	2018	2018	912
+	Arizona	4	2019	2019	882
+	Arkansas	5	1999	1999	302
+	Arkansas	5	2000	2000	326
+	Arkansas	5	2001	2001	335
+	Arkansas	5	2002	2002	318
+	Arkansas	5	2003	2003	283
+	Arkansas	5	2004	2004	263
+	Arkansas	5	2005	2005	259
+	Arkansas	5	2006	2006	281
+	Arkansas	5	2007	2007	313
+	Arkansas	5	2008	2008	317
+	Arkansas	5	2009	2009	298
+	Arkansas	5	2010	2010	332
+	Arkansas	5	2011	2011	337
+	Arkansas	5	2012	2012	328
+	Arkansas	5	2013	2013	389
+	Arkansas	5	2014	2014	421
+	Arkansas	5	2015	2015	381
+	Arkansas	5	2016	2016	406
+	Arkansas	5	2017	2017	397
+	Arkansas	5	2018	2018	410
+	Arkansas	5	2019	2019	453
+	California	6	1999	1999	2006
+	California	6	2000	2000	1928
+	California	6	2001	2001	1880
+	California	6	2002	2002	1776
+	California	6	2003	2003	1919
+	California	6	2004	2004	2079
+	California	6	2005	2005	2108
+	California	6	2006	2006	2169
+	California	6	2007	2007	2217
+	California	6	2008	2008	2259
+	California	6	2009	2009	2363
+	California	6	2010	2010	2272
+	California	6	2011	2011	2439
+	California	6	2012	2012	2494
+	California	6	2013	2013	2592
+	California	6	2014	2014	2521
+	California	6	2015	2015	2594
+	California	6	2016	2016	2749
+	California	6	2017	2017	2927
+	California	6	2018	2018	2952
+	California	6	2019	2019	3071
+	Colorado	8	1999	1999	321
+	Colorado	8	2000	2000	311
+	Colorado	8	2001	2001	330
+	Colorado	8	2002	2002	330
+	Colorado	8	2003	2003	313
+	Colorado	8	2004	2004	347
+	Colorado	8	2005	2005	351
+	Colorado	8	2006	2006	395
+	Colorado	8	2007	2007	382
+	Colorado	8	2008	2008	393
+	Colorado	8	2009	2009	399
+	Colorado	8	2010	2010	413
+	Colorado	8	2011	2011	392
+	Colorado	8	2012	2012	423
+	Colorado	8	2013	2013	458
+	Colorado	8	2014	2014	484
+	Colorado	8	2015	2015	509
+	Colorado	8	2016	2016	531
+	Colorado	8	2017	2017	570
+	Colorado	8	2018	2018	595
+	Colorado	8	2019	2019	610
+	Connecticut	9	1999	1999	336
+	Connecticut	9	2000	2000	375
+	Connecticut	9	2001	2001	387
+	Connecticut	9	2002	2002	378
+	Connecticut	9	2003	2003	414
+	Connecticut	9	2004	2004	396
+	Connecticut	9	2005	2005	362
+	Connecticut	9	2006	2006	383
+	Connecticut	9	2007	2007	427
+	Connecticut	9	2008	2008	424
+	Connecticut	9	2009	2009	456
+	Connecticut	9	2010	2010	409
+	Connecticut	9	2011	2011	544
+	Connecticut	9	2012	2012	529
+	Connecticut	9	2013	2013	572
+	Connecticut	9	2014	2014	556
+	Connecticut	9	2015	2015	553
+	Connecticut	9	2016	2016	554
+	Connecticut	9	2017	2017	590
+	Connecticut	9	2018	2018	530
+	Connecticut	9	2019	2019	551
+	Delaware	10	1999	1999	71
+	Delaware	10	2000	2000	77
+	Delaware	10	2001	2001	65
+	Delaware	10	2002	2002	71
+	Delaware	10	2003	2003	58
+	Delaware	10	2004	2004	93
+	Delaware	10	2005	2005	79
+	Delaware	10	2006	2006	93
+	Delaware	10	2007	2007	78
+	Delaware	10	2008	2008	83
+	Delaware	10	2009	2009	93
+	Delaware	10	2010	2010	89
+	Delaware	10	2011	2011	116
+	Delaware	10	2012	2012	107
+	Delaware	10	2013	2013	96
+	Delaware	10	2014	2014	115
+	Delaware	10	2015	2015	96
+	Delaware	10	2016	2016	117
+	Delaware	10	2017	2017	115
+	Delaware	10	2018	2018	152
+	Delaware	10	2019	2019	145
+	District of Columbia	11	1999	1999	51
+	District of Columbia	11	2000	2000	44
+	District of Columbia	11	2001	2001	37
+	District of Columbia	11	2002	2002	38
+	District of Columbia	11	2003	2003	36
+	District of Columbia	11	2004	2004	43
+	District of Columbia	11	2005	2005	40
+	District of Columbia	11	2006	2006	36
+	District of Columbia	11	2007	2007	54
+	District of Columbia	11	2008	2008	49
+	District of Columbia	11	2009	2009	41
+	District of Columbia	11	2010	2010	52
+	District of Columbia	11	2011	2011	37
+	District of Columbia	11	2012	2012	33
+	District of Columbia	11	2013	2013	51
+	District of Columbia	11	2014	2014	45
+	District of Columbia	11	2015	2015	56
+	District of Columbia	11	2016	2016	39
+	District of Columbia	11	2017	2017	36
+	District of Columbia	11	2018	2018	54
+	District of Columbia	11	2019	2019	45
+	Florida	12	1999	1999	1652
+	Florida	12	2000	2000	1600
+	Florida	12	2001	2001	1685
+	Florida	12	2002	2002	1501
+	Florida	12	2003	2003	1645
+	Florida	12	2004	2004	1795
+	Florida	12	2005	2005	1630
+	Florida	12	2006	2006	1711
+	Florida	12	2007	2007	1749
+	Florida	12	2008	2008	1858
+	Florida	12	2009	2009	1952
+	Florida	12	2010	2010	2016
+	Florida	12	2011	2011	2033
+	Florida	12	2012	2012	2062
+	Florida	12	2013	2013	2160
+	Florida	12	2014	2014	2250
+	Florida	12	2015	2015	2456
+	Florida	12	2016	2016	2387
+	Florida	12	2017	2017	2585
+	Florida	12	2018	2018	2776
+	Florida	12	2019	2019	2843
+	Georgia	13	1999	1999	938
+	Georgia	13	2000	2000	946
+	Georgia	13	2001	2001	920
+	Georgia	13	2002	2002	926
+	Georgia	13	2003	2003	956
+	Georgia	13	2004	2004	951
+	Georgia	13	2005	2005	991
+	Georgia	13	2006	2006	1064
+	Georgia	13	2007	2007	1115
+	Georgia	13	2008	2008	1218
+	Georgia	13	2009	2009	1270
+	Georgia	13	2010	2010	1378
+	Georgia	13	2011	2011	1190
+	Georgia	13	2012	2012	1233
+	Georgia	13	2013	2013	1384
+	Georgia	13	2014	2014	1344
+	Georgia	13	2015	2015	1517
+	Georgia	13	2016	2016	1400
+	Georgia	13	2017	2017	1683
+	Georgia	13	2018	2018	1949
+	Georgia	13	2019	2019	1804
+	Hawaii	15	1999	1999	119
+	Hawaii	15	2000	2000	110
+	Hawaii	15	2001	2001	135
+	Hawaii	15	2002	2002	157
+	Hawaii	15	2003	2003	142
+	Hawaii	15	2004	2004	113
+	Hawaii	15	2005	2005	141
+	Hawaii	15	2006	2006	135
+	Hawaii	15	2007	2007	151
+	Hawaii	15	2008	2008	137
+	Hawaii	15	2009	2009	150
+	Hawaii	15	2010	2010	159
+	Hawaii	15	2011	2011	164
+	Hawaii	15	2012	2012	149
+	Hawaii	15	2013	2013	163
+	Hawaii	15	2014	2014	139
+	Hawaii	15	2015	2015	146
+	Hawaii	15	2016	2016	170
+	Hawaii	15	2017	2017	158
+	Hawaii	15	2018	2018	159
+	Hawaii	15	2019	2019	129
+	Idaho	16	1999	1999	106
+	Idaho	16	2000	2000	103
+	Idaho	16	2001	2001	116
+	Idaho	16	2002	2002	99
+	Idaho	16	2003	2003	82
+	Idaho	16	2004	2004	112
+	Idaho	16	2005	2005	122
+	Idaho	16	2006	2006	127
+	Idaho	16	2007	2007	122
+	Idaho	16	2008	2008	122
+	Idaho	16	2009	2009	154
+	Idaho	16	2010	2010	137
+	Idaho	16	2011	2011	161
+	Idaho	16	2012	2012	177
+	Idaho	16	2013	2013	170
+	Idaho	16	2014	2014	184
+	Idaho	16	2015	2015	204
+	Idaho	16	2016	2016	187
+	Idaho	16	2017	2017	224
+	Idaho	16	2018	2018	217
+	Idaho	16	2019	2019	270
+	Illinois	17	1999	1999	1097
+	Illinois	17	2000	2000	1026
+	Illinois	17	2001	2001	1060
+	Illinois	17	2002	2002	1047
+	Illinois	17	2003	2003	1022
+	Illinois	17	2004	2004	1114
+	Illinois	17	2005	2005	1179
+	Illinois	17	2006	2006	1207
+	Illinois	17	2007	2007	1185
+	Illinois	17	2008	2008	1222
+	Illinois	17	2009	2009	1293
+	Illinois	17	2010	2010	1299
+	Illinois	17	2011	2011	1341
+	Illinois	17	2012	2012	1385
+	Illinois	17	2013	2013	1386
+	Illinois	17	2014	2014	1421
+	Illinois	17	2015	2015	1476
+	Illinois	17	2016	2016	1516
+	Illinois	17	2017	2017	1606
+	Illinois	17	2018	2018	1678
+	Illinois	17	2019	2019	1507
+	Indiana	18	1999	1999	626
+	Indiana	18	2000	2000	616
+	Indiana	18	2001	2001	652
+	Indiana	18	2002	2002	620
+	Indiana	18	2003	2003	672
+	Indiana	18	2004	2004	746
+	Indiana	18	2005	2005	750
+	Indiana	18	2006	2006	741
+	Indiana	18	2007	2007	713
+	Indiana	18	2008	2008	769
+	Indiana	18	2009	2009	752
+	Indiana	18	2010	2010	823
+	Indiana	18	2011	2011	849
+	Indiana	18	2012	2012	931
+	Indiana	18	2013	2013	976
+	Indiana	18	2014	2014	951
+	Indiana	18	2015	2015	978
+	Indiana	18	2016	2016	1172
+	Indiana	18	2017	2017	1126
+	Indiana	18	2018	2018	1117
+	Indiana	18	2019	2019	1160
+	Iowa	19	1999	1999	257
+	Iowa	19	2000	2000	304
+	Iowa	19	2001	2001	304
+	Iowa	19	2002	2002	251
+	Iowa	19	2003	2003	280
+	Iowa	19	2004	2004	254
+	Iowa	19	2005	2005	283
+	Iowa	19	2006	2006	299
+	Iowa	19	2007	2007	323
+	Iowa	19	2008	2008	333
+	Iowa	19	2009	2009	351
+	Iowa	19	2010	2010	296
+	Iowa	19	2011	2011	327
+	Iowa	19	2012	2012	333
+	Iowa	19	2013	2013	370
+	Iowa	19	2014	2014	387
+	Iowa	19	2015	2015	428
+	Iowa	19	2016	2016	422
+	Iowa	19	2017	2017	476
+	Iowa	19	2018	2018	485
+	Iowa	19	2019	2019	503
+	Kansas	20	1999	1999	276
+	Kansas	20	2000	2000	276
+	Kansas	20	2001	2001	276
+	Kansas	20	2002	2002	310
+	Kansas	20	2003	2003	273
+	Kansas	20	2004	2004	298
+	Kansas	20	2005	2005	280
+	Kansas	20	2006	2006	296
+	Kansas	20	2007	2007	309
+	Kansas	20	2008	2008	297
+	Kansas	20	2009	2009	296
+	Kansas	20	2010	2010	343
+	Kansas	20	2011	2011	309
+	Kansas	20	2012	2012	312
+	Kansas	20	2013	2013	346
+	Kansas	20	2014	2014	391
+	Kansas	20	2015	2015	409
+	Kansas	20	2016	2016	401
+	Kansas	20	2017	2017	424
+	Kansas	20	2018	2018	435
+	Kansas	20	2019	2019	467
+	Kentucky	21	1999	1999	437
+	Kentucky	21	2000	2000	422
+	Kentucky	21	2001	2001	466
+	Kentucky	21	2002	2002	458
+	Kentucky	21	2003	2003	452
+	Kentucky	21	2004	2004	456
+	Kentucky	21	2005	2005	442
+	Kentucky	21	2006	2006	465
+	Kentucky	21	2007	2007	518
+	Kentucky	21	2008	2008	527
+	Kentucky	21	2009	2009	553
+	Kentucky	21	2010	2010	542
+	Kentucky	21	2011	2011	614
+	Kentucky	21	2012	2012	618
+	Kentucky	21	2013	2013	724
+	Kentucky	21	2014	2014	739
+	Kentucky	21	2015	2015	749
+	Kentucky	21	2016	2016	821
+	Kentucky	21	2017	2017	845
+	Kentucky	21	2018	2018	931
+	Kentucky	21	2019	2019	947
+	Louisiana	22	1999	1999	410
+	Louisiana	22	2000	2000	469
+	Louisiana	22	2001	2001	507
+	Louisiana	22	2002	2002	441
+	Louisiana	22	2003	2003	494
+	Louisiana	22	2004	2004	508
+	Louisiana	22	2005	2005	548
+	Louisiana	22	2006	2006	502
+	Louisiana	22	2007	2007	484
+	Louisiana	22	2008	2008	561
+	Louisiana	22	2009	2009	538
+	Louisiana	22	2010	2010	597
+	Louisiana	22	2011	2011	631
+	Louisiana	22	2012	2012	649
+	Louisiana	22	2013	2013	745
+	Louisiana	22	2014	2014	808
+	Louisiana	22	2015	2015	867
+	Louisiana	22	2016	2016	905
+	Louisiana	22	2017	2017	951
+	Louisiana	22	2018	2018	994
+	Louisiana	22	2019	2019	1021
+	Maine	23	1999	1999	156
+	Maine	23	2000	2000	150
+	Maine	23	2001	2001	169
+	Maine	23	2002	2002	160
+	Maine	23	2003	2003	169
+	Maine	23	2004	2004	173
+	Maine	23	2005	2005	173
+	Maine	23	2006	2006	194
+	Maine	23	2007	2007	195
+	Maine	23	2008	2008	182
+	Maine	23	2009	2009	203
+	Maine	23	2010	2010	190
+	Maine	23	2011	2011	196
+	Maine	23	2012	2012	202
+	Maine	23	2013	2013	224
+	Maine	23	2014	2014	204
+	Maine	23	2015	2015	220
+	Maine	23	2016	2016	217
+	Maine	23	2017	2017	226
+	Maine	23	2018	2018	270
+	Maine	23	2019	2019	234
+	Maryland	24	1999	1999	384
+	Maryland	24	2000	2000	413
+	Maryland	24	2001	2001	418
+	Maryland	24	2002	2002	373
+	Maryland	24	2003	2003	415
+	Maryland	24	2004	2004	441
+	Maryland	24	2005	2005	469
+	Maryland	24	2006	2006	444
+	Maryland	24	2007	2007	460
+	Maryland	24	2008	2008	497
+	Maryland	24	2009	2009	455
+	Maryland	24	2010	2010	469
+	Maryland	24	2011	2011	462
+	Maryland	24	2012	2012	466
+	Maryland	24	2013	2013	512
+	Maryland	24	2014	2014	550
+	Maryland	24	2015	2015	569
+	Maryland	24	2016	2016	560
+	Maryland	24	2017	2017	591
+	Maryland	24	2018	2018	605
+	Maryland	24	2019	2019	613
+	Massachusetts	25	1999	1999	931
+	Massachusetts	25	2000	2000	1025
+	Massachusetts	25	2001	2001	893
+	Massachusetts	25	2002	2002	861
+	Massachusetts	25	2003	2003	808
+	Massachusetts	25	2004	2004	893
+	Massachusetts	25	2005	2005	807
+	Massachusetts	25	2006	2006	775
+	Massachusetts	25	2007	2007	729
+	Massachusetts	25	2008	2008	723
+	Massachusetts	25	2009	2009	732
+	Massachusetts	25	2010	2010	762
+	Massachusetts	25	2011	2011	801
+	Massachusetts	25	2012	2012	754
+	Massachusetts	25	2013	2013	778
+	Massachusetts	25	2014	2014	782
+	Massachusetts	25	2015	2015	842
+	Massachusetts	25	2016	2016	798
+	Massachusetts	25	2017	2017	934
+	Massachusetts	25	2018	2018	1034
+	Massachusetts	25	2019	2019	991
+	Michigan	26	1999	1999	908
+	Michigan	26	2000	2000	875
+	Michigan	26	2001	2001	863
+	Michigan	26	2002	2002	856
+	Michigan	26	2003	2003	897
+	Michigan	26	2004	2004	1014
+	Michigan	26	2005	2005	906
+	Michigan	26	2006	2006	923
+	Michigan	26	2007	2007	895
+	Michigan	26	2008	2008	961
+	Michigan	26	2009	2009	1025
+	Michigan	26	2010	2010	1016
+	Michigan	26	2011	2011	1034
+	Michigan	26	2012	2012	1076
+	Michigan	26	2013	2013	1140
+	Michigan	26	2014	2014	1188
+	Michigan	26	2015	2015	1235
+	Michigan	26	2016	2016	1211
+	Michigan	26	2017	2017	1262
+	Michigan	26	2018	2018	1328
+	Michigan	26	2019	2019	1330
+	Minnesota	27	1999	1999	400
+	Minnesota	27	2000	2000	382
+	Minnesota	27	2001	2001	432
+	Minnesota	27	2002	2002	384
+	Minnesota	27	2003	2003	387
+	Minnesota	27	2004	2004	435
+	Minnesota	27	2005	2005	404
+	Minnesota	27	2006	2006	432
+	Minnesota	27	2007	2007	453
+	Minnesota	27	2008	2008	507
+	Minnesota	27	2009	2009	474
+	Minnesota	27	2010	2010	483
+	Minnesota	27	2011	2011	570
+	Minnesota	27	2012	2012	496
+	Minnesota	27	2013	2013	614
+	Minnesota	27	2014	2014	561
+	Minnesota	27	2015	2015	619
+	Minnesota	27	2016	2016	604
+	Minnesota	27	2017	2017	642
+	Minnesota	27	2018	2018	704
+	Minnesota	27	2019	2019	649
+	Mississippi	28	1999	1999	287
+	Mississippi	28	2000	2000	297
+	Mississippi	28	2001	2001	291
+	Mississippi	28	2002	2002	301
+	Mississippi	28	2003	2003	344
+	Mississippi	28	2004	2004	344
+	Mississippi	28	2005	2005	336
+	Mississippi	28	2006	2006	378
+	Mississippi	28	2007	2007	385
+	Mississippi	28	2008	2008	411
+	Mississippi	28	2009	2009	408
+	Mississippi	28	2010	2010	441
+	Mississippi	28	2011	2011	431
+	Mississippi	28	2012	2012	391
+	Mississippi	28	2013	2013	487
+	Mississippi	28	2014	2014	509
+	Mississippi	28	2015	2015	501
+	Mississippi	28	2016	2016	505
+	Mississippi	28	2017	2017	570
+	Mississippi	28	2018	2018	579
+	Mississippi	28	2019	2019	506
+	Missouri	29	1999	1999	524
+	Missouri	29	2000	2000	590
+	Missouri	29	2001	2001	578
+	Missouri	29	2002	2002	565
+	Missouri	29	2003	2003	533
+	Missouri	29	2004	2004	584
+	Missouri	29	2005	2005	563
+	Missouri	29	2006	2006	579
+	Missouri	29	2007	2007	584
+	Missouri	29	2008	2008	567
+	Missouri	29	2009	2009	595
+	Missouri	29	2010	2010	668
+	Missouri	29	2011	2011	679
+	Missouri	29	2012	2012	752
+	Missouri	29	2013	2013	737
+	Missouri	29	2014	2014	834
+	Missouri	29	2015	2015	969
+	Missouri	29	2016	2016	1082
+	Missouri	29	2017	2017	1177
+	Missouri	29	2018	2018	1173
+	Missouri	29	2019	2019	1264
+	Montana	30	1999	1999	96
+	Montana	30	2000	2000	87
+	Montana	30	2001	2001	108
+	Montana	30	2002	2002	89
+	Montana	30	2003	2003	94
+	Montana	30	2004	2004	101
+	Montana	30	2005	2005	96
+	Montana	30	2006	2006	123
+	Montana	30	2007	2007	110
+	Montana	30	2008	2008	110
+	Montana	30	2009	2009	97
+	Montana	30	2010	2010	116
+	Montana	30	2011	2011	145
+	Montana	30	2012	2012	132
+	Montana	30	2013	2013	127
+	Montana	30	2014	2014	137
+	Montana	30	2015	2015	140
+	Montana	30	2016	2016	134
+	Montana	30	2017	2017	145
+	Montana	30	2018	2018	147
+	Montana	30	2019	2019	163
+	Nebraska	31	1999	1999	213
+	Nebraska	31	2000	2000	166
+	Nebraska	31	2001	2001	188
+	Nebraska	31	2002	2002	172
+	Nebraska	31	2003	2003	181
+	Nebraska	31	2004	2004	200
+	Nebraska	31	2005	2005	203
+	Nebraska	31	2006	2006	192
+	Nebraska	31	2007	2007	208
+	Nebraska	31	2008	2008	195
+	Nebraska	31	2009	2009	204
+	Nebraska	31	2010	2010	193
+	Nebraska	31	2011	2011	223
+	Nebraska	31	2012	2012	231
+	Nebraska	31	2013	2013	199
+	Nebraska	31	2014	2014	179
+	Nebraska	31	2015	2015	237
+	Nebraska	31	2016	2016	202
+	Nebraska	31	2017	2017	254
+	Nebraska	31	2018	2018	279
+	Nebraska	31	2019	2019	280
+	Nevada	32	1999	1999	157
+	Nevada	32	2000	2000	146
+	Nevada	32	2001	2001	151
+	Nevada	32	2002	2002	198
+	Nevada	32	2003	2003	192
+	Nevada	32	2004	2004	201
+	Nevada	32	2005	2005	179
+	Nevada	32	2006	2006	215
+	Nevada	32	2007	2007	189
+	Nevada	32	2008	2008	182
+	Nevada	32	2009	2009	166
+	Nevada	32	2010	2010	156
+	Nevada	32	2011	2011	179
+	Nevada	32	2012	2012	182
+	Nevada	32	2013	2013	196
+	Nevada	32	2014	2014	179
+	Nevada	32	2015	2015	209
+	Nevada	32	2016	2016	194
+	Nevada	32	2017	2017	187
+	Nevada	32	2018	2018	235
+	Nevada	32	2019	2019	205
+	New Hampshire	33	1999	1999	111
+	New Hampshire	33	2000	2000	101
+	New Hampshire	33	2001	2001	117
+	New Hampshire	33	2002	2002	133
+	New Hampshire	33	2003	2003	105
+	New Hampshire	33	2004	2004	116
+	New Hampshire	33	2005	2005	116
+	New Hampshire	33	2006	2006	133
+	New Hampshire	33	2007	2007	128
+	New Hampshire	33	2008	2008	125
+	New Hampshire	33	2009	2009	144
+	New Hampshire	33	2010	2010	152
+	New Hampshire	33	2011	2011	142
+	New Hampshire	33	2012	2012	149
+	New Hampshire	33	2013	2013	169
+	New Hampshire	33	2014	2014	166
+	New Hampshire	33	2015	2015	179
+	New Hampshire	33	2016	2016	177
+	New Hampshire	33	2017	2017	186
+	New Hampshire	33	2018	2018	228
+	New Hampshire	33	2019	2019	208
+	New Jersey	34	1999	1999	700
+	New Jersey	34	2000	2000	719
+	New Jersey	34	2001	2001	765
+	New Jersey	34	2002	2002	693
+	New Jersey	34	2003	2003	746
+	New Jersey	34	2004	2004	729
+	New Jersey	34	2005	2005	752
+	New Jersey	34	2006	2006	778
+	New Jersey	34	2007	2007	822
+	New Jersey	34	2008	2008	948
+	New Jersey	34	2009	2009	961
+	New Jersey	34	2010	2010	1038
+	New Jersey	34	2011	2011	1236
+	New Jersey	34	2012	2012	1364
+	New Jersey	34	2013	2013	1464
+	New Jersey	34	2014	2014	1533
+	New Jersey	34	2015	2015	1728
+	New Jersey	34	2016	2016	1770
+	New Jersey	34	2017	2017	1652
+	New Jersey	34	2018	2018	1743
+	New Jersey	34	2019	2019	1771
+	New Mexico	35	1999	1999	173
+	New Mexico	35	2000	2000	172
+	New Mexico	35	2001	2001	191
+	New Mexico	35	2002	2002	168
+	New Mexico	35	2003	2003	157
+	New Mexico	35	2004	2004	203
+	New Mexico	35	2005	2005	209
+	New Mexico	35	2006	2006	194
+	New Mexico	35	2007	2007	221
+	New Mexico	35	2008	2008	189
+	New Mexico	35	2009	2009	182
+	New Mexico	35	2010	2010	202
+	New Mexico	35	2011	2011	204
+	New Mexico	35	2012	2012	218
+	New Mexico	35	2013	2013	213
+	New Mexico	35	2014	2014	236
+	New Mexico	35	2015	2015	257
+	New Mexico	35	2016	2016	241
+	New Mexico	35	2017	2017	271
+	New Mexico	35	2018	2018	308
+	New Mexico	35	2019	2019	297
+	New York	36	1999	1999	1374
+	New York	36	2000	2000	1359
+	New York	36	2001	2001	1415
+	New York	36	2002	2002	1379
+	New York	36	2003	2003	1420
+	New York	36	2004	2004	1372
+	New York	36	2005	2005	1410
+	New York	36	2006	2006	1329
+	New York	36	2007	2007	1462
+	New York	36	2008	2008	1445
+	New York	36	2009	2009	1570
+	New York	36	2010	2010	1554
+	New York	36	2011	2011	1724
+	New York	36	2012	2012	1757
+	New York	36	2013	2013	1728
+	New York	36	2014	2014	1865
+	New York	36	2015	2015	1908
+	New York	36	2016	2016	1875
+	New York	36	2017	2017	2080
+	New York	36	2018	2018	2336
+	New York	36	2019	2019	2617
+	North Carolina	37	1999	1999	744
+	North Carolina	37	2000	2000	828
+	North Carolina	37	2001	2001	878
+	North Carolina	37	2002	2002	831
+	North Carolina	37	2003	2003	888
+	North Carolina	37	2004	2004	941
+	North Carolina	37	2005	2005	855
+	North Carolina	37	2006	2006	923
+	North Carolina	37	2007	2007	976
+	North Carolina	37	2008	2008	1007
+	North Carolina	37	2009	2009	1011
+	North Carolina	37	2010	2010	1049
+	North Carolina	37	2011	2011	1134
+	North Carolina	37	2012	2012	1102
+	North Carolina	37	2013	2013	1135
+	North Carolina	37	2014	2014	1143
+	North Carolina	37	2015	2015	1294
+	North Carolina	37	2016	2016	1377
+	North Carolina	37	2017	2017	1552
+	North Carolina	37	2018	2018	1504
+	North Carolina	37	2019	2019	1566
+	North Dakota	38	1999	1999	64
+	North Dakota	38	2000	2000	55
+	North Dakota	38	2001	2001	44
+	North Dakota	38	2002	2002	62
+	North Dakota	38	2003	2003	62
+	North Dakota	38	2004	2004	58
+	North Dakota	38	2005	2005	70
+	North Dakota	38	2006	2006	48
+	North Dakota	38	2007	2007	54
+	North Dakota	38	2008	2008	66
+	North Dakota	38	2009	2009	68
+	North Dakota	38	2010	2010	56
+	North Dakota	38	2011	2011	63
+	North Dakota	38	2012	2012	73
+	North Dakota	38	2013	2013	75
+	North Dakota	38	2014	2014	91
+	North Dakota	38	2015	2015	80
+	North Dakota	38	2016	2016	91
+	North Dakota	38	2017	2017	117
+	North Dakota	38	2018	2018	90
+	North Dakota	38	2019	2019	87
+	Ohio	39	1999	1999	1143
+	Ohio	39	2000	2000	1171
+	Ohio	39	2001	2001	1241
+	Ohio	39	2002	2002	1193
+	Ohio	39	2003	2003	1153
+	Ohio	39	2004	2004	1279
+	Ohio	39	2005	2005	1256
+	Ohio	39	2006	2006	1213
+	Ohio	39	2007	2007	1192
+	Ohio	39	2008	2008	1247
+	Ohio	39	2009	2009	1334
+	Ohio	39	2010	2010	1284
+	Ohio	39	2011	2011	1481
+	Ohio	39	2012	2012	1465
+	Ohio	39	2013	2013	1529
+	Ohio	39	2014	2014	1663
+	Ohio	39	2015	2015	1750
+	Ohio	39	2016	2016	1776
+	Ohio	39	2017	2017	2033
+	Ohio	39	2018	2018	2121
+	Ohio	39	2019	2019	2030
+	Oklahoma	40	1999	1999	325
+	Oklahoma	40	2000	2000	354
+	Oklahoma	40	2001	2001	339
+	Oklahoma	40	2002	2002	341
+	Oklahoma	40	2003	2003	302
+	Oklahoma	40	2004	2004	351
+	Oklahoma	40	2005	2005	328
+	Oklahoma	40	2006	2006	327
+	Oklahoma	40	2007	2007	356
+	Oklahoma	40	2008	2008	377
+	Oklahoma	40	2009	2009	292
+	Oklahoma	40	2010	2010	327
+	Oklahoma	40	2011	2011	325
+	Oklahoma	40	2012	2012	343
+	Oklahoma	40	2013	2013	384
+	Oklahoma	40	2014	2014	383
+	Oklahoma	40	2015	2015	347
+	Oklahoma	40	2016	2016	393
+	Oklahoma	40	2017	2017	425
+	Oklahoma	40	2018	2018	427
+	Oklahoma	40	2019	2019	420
+	Oregon	41	1999	1999	254
+	Oregon	41	2000	2000	294
+	Oregon	41	2001	2001	337
+	Oregon	41	2002	2002	288
+	Oregon	41	2003	2003	297
+	Oregon	41	2004	2004	342
+	Oregon	41	2005	2005	311
+	Oregon	41	2006	2006	385
+	Oregon	41	2007	2007	370
+	Oregon	41	2008	2008	380
+	Oregon	41	2009	2009	413
+	Oregon	41	2010	2010	368
+	Oregon	41	2011	2011	414
+	Oregon	41	2012	2012	371
+	Oregon	41	2013	2013	440
+	Oregon	41	2014	2014	466
+	Oregon	41	2015	2015	429
+	Oregon	41	2016	2016	431
+	Oregon	41	2017	2017	465
+	Oregon	41	2018	2018	450
+	Oregon	41	2019	2019	505
+	Pennsylvania	42	1999	1999	1542
+	Pennsylvania	42	2000	2000	1703
+	Pennsylvania	42	2001	2001	1567
+	Pennsylvania	42	2002	2002	1556
+	Pennsylvania	42	2003	2003	1607
+	Pennsylvania	42	2004	2004	1780
+	Pennsylvania	42	2005	2005	1710
+	Pennsylvania	42	2006	2006	1623
+	Pennsylvania	42	2007	2007	1708
+	Pennsylvania	42	2008	2008	1894
+	Pennsylvania	42	2009	2009	1798
+	Pennsylvania	42	2010	2010	1842
+	Pennsylvania	42	2011	2011	1979
+	Pennsylvania	42	2012	2012	1876
+	Pennsylvania	42	2013	2013	2040
+	Pennsylvania	42	2014	2014	2047
+	Pennsylvania	42	2015	2015	2141
+	Pennsylvania	42	2016	2016	2173
+	Pennsylvania	42	2017	2017	2173
+	Pennsylvania	42	2018	2018	2321
+	Pennsylvania	42	2019	2019	2273
+	Rhode Island	44	1999	1999	85
+	Rhode Island	44	2000	2000	95
+	Rhode Island	44	2001	2001	89
+	Rhode Island	44	2002	2002	82
+	Rhode Island	44	2003	2003	100
+	Rhode Island	44	2004	2004	108
+	Rhode Island	44	2005	2005	103
+	Rhode Island	44	2006	2006	119
+	Rhode Island	44	2007	2007	117
+	Rhode Island	44	2008	2008	116
+	Rhode Island	44	2009	2009	83
+	Rhode Island	44	2010	2010	118
+	Rhode Island	44	2011	2011	109
+	Rhode Island	44	2012	2012	104
+	Rhode Island	44	2013	2013	104
+	Rhode Island	44	2014	2014	110
+	Rhode Island	44	2015	2015	116
+	Rhode Island	44	2016	2016	126
+	Rhode Island	44	2017	2017	105
+	Rhode Island	44	2018	2018	100
+	Rhode Island	44	2019	2019	122
+	South Carolina	45	1999	1999	421
+	South Carolina	45	2000	2000	443
+	South Carolina	45	2001	2001	488
+	South Carolina	45	2002	2002	414
+	South Carolina	45	2003	2003	472
+	South Carolina	45	2004	2004	441
+	South Carolina	45	2005	2005	440
+	South Carolina	45	2006	2006	486
+	South Carolina	45	2007	2007	501
+	South Carolina	45	2008	2008	556
+	South Carolina	45	2009	2009	582
+	South Carolina	45	2010	2010	639
+	South Carolina	45	2011	2011	625
+	South Carolina	45	2012	2012	648
+	South Carolina	45	2013	2013	711
+	South Carolina	45	2014	2014	703
+	South Carolina	45	2015	2015	763
+	South Carolina	45	2016	2016	786
+	South Carolina	45	2017	2017	770
+	South Carolina	45	2018	2018	758
+	South Carolina	45	2019	2019	903
+	South Dakota	46	1999	1999	47
+	South Dakota	46	2000	2000	71
+	South Dakota	46	2001	2001	69
+	South Dakota	46	2002	2002	64
+	South Dakota	46	2003	2003	55
+	South Dakota	46	2004	2004	56
+	South Dakota	46	2005	2005	83
+	South Dakota	46	2006	2006	74
+	South Dakota	46	2007	2007	52
+	South Dakota	46	2008	2008	85
+	South Dakota	46	2009	2009	67
+	South Dakota	46	2010	2010	70
+	South Dakota	46	2011	2011	75
+	South Dakota	46	2012	2012	95
+	South Dakota	46	2013	2013	102
+	South Dakota	46	2014	2014	89
+	South Dakota	46	2015	2015	71
+	South Dakota	46	2016	2016	99
+	South Dakota	46	2017	2017	95
+	South Dakota	46	2018	2018	85
+	South Dakota	46	2019	2019	109
+	Tennessee	47	1999	1999	501
+	Tennessee	47	2000	2000	512
+	Tennessee	47	2001	2001	524
+	Tennessee	47	2002	2002	523
+	Tennessee	47	2003	2003	500
+	Tennessee	47	2004	2004	514
+	Tennessee	47	2005	2005	570
+	Tennessee	47	2006	2006	558
+	Tennessee	47	2007	2007	579
+	Tennessee	47	2008	2008	685
+	Tennessee	47	2009	2009	636
+	Tennessee	47	2010	2010	596
+	Tennessee	47	2011	2011	720
+	Tennessee	47	2012	2012	660
+	Tennessee	47	2013	2013	734
+	Tennessee	47	2014	2014	776
+	Tennessee	47	2015	2015	856
+	Tennessee	47	2016	2016	914
+	Tennessee	47	2017	2017	875
+	Tennessee	47	2018	2018	898
+	Tennessee	47	2019	2019	1024
+	Texas	48	1999	1999	1442
+	Texas	48	2000	2000	1531
+	Texas	48	2001	2001	1512
+	Texas	48	2002	2002	1512
+	Texas	48	2003	2003	1475
+	Texas	48	2004	2004	1708
+	Texas	48	2005	2005	1589
+	Texas	48	2006	2006	1709
+	Texas	48	2007	2007	1913
+	Texas	48	2008	2008	2052
+	Texas	48	2009	2009	2034
+	Texas	48	2010	2010	2257
+	Texas	48	2011	2011	2185
+	Texas	48	2012	2012	2465
+	Texas	48	2013	2013	2480
+	Texas	48	2014	2014	2679
+	Texas	48	2015	2015	2789
+	Texas	48	2016	2016	2964
+	Texas	48	2017	2017	3155
+	Texas	48	2018	2018	3283
+	Texas	48	2019	2019	2994
+	Utah	49	1999	1999	140
+	Utah	49	2000	2000	141
+	Utah	49	2001	2001	158
+	Utah	49	2002	2002	161
+	Utah	49	2003	2003	168
+	Utah	49	2004	2004	161
+	Utah	49	2005	2005	173
+	Utah	49	2006	2006	172
+	Utah	49	2007	2007	182
+	Utah	49	2008	2008	166
+	Utah	49	2009	2009	212
+	Utah	49	2010	2010	203
+	Utah	49	2011	2011	232
+	Utah	49	2012	2012	210
+	Utah	49	2013	2013	213
+	Utah	49	2014	2014	222
+	Utah	49	2015	2015	269
+	Utah	49	2016	2016	259
+	Utah	49	2017	2017	284
+	Utah	49	2018	2018	268
+	Utah	49	2019	2019	288
+	Vermont	50	1999	1999	64
+	Vermont	50	2000	2000	62
+	Vermont	50	2001	2001	66
+	Vermont	50	2002	2002	72
+	Vermont	50	2003	2003	55
+	Vermont	50	2004	2004	59
+	Vermont	50	2005	2005	70
+	Vermont	50	2006	2006	53
+	Vermont	50	2007	2007	60
+	Vermont	50	2008	2008	57
+	Vermont	50	2009	2009	55
+	Vermont	50	2010	2010	68
+	Vermont	50	2011	2011	75
+	Vermont	50	2012	2012	82
+	Vermont	50	2013	2013	72
+	Vermont	50	2014	2014	81
+	Vermont	50	2015	2015	81
+	Vermont	50	2016	2016	70
+	Vermont	50	2017	2017	76
+	Vermont	50	2018	2018	74
+	Vermont	50	2019	2019	89
+	Virginia	51	1999	1999	692
+	Virginia	51	2000	2000	723
+	Virginia	51	2001	2001	773
+	Virginia	51	2002	2002	713
+	Virginia	51	2003	2003	702
+	Virginia	51	2004	2004	728
+	Virginia	51	2005	2005	806
+	Virginia	51	2006	2006	874
+	Virginia	51	2007	2007	841
+	Virginia	51	2008	2008	898
+	Virginia	51	2009	2009	955
+	Virginia	51	2010	2010	852
+	Virginia	51	2011	2011	893
+	Virginia	51	2012	2012	937
+	Virginia	51	2013	2013	1051
+	Virginia	51	2014	2014	944
+	Virginia	51	2015	2015	941
+	Virginia	51	2016	2016	1048
+	Virginia	51	2017	2017	1159
+	Virginia	51	2018	2018	1239
+	Virginia	51	2019	2019	1236
+	Washington	53	1999	1999	402
+	Washington	53	2000	2000	454
+	Washington	53	2001	2001	497
+	Washington	53	2002	2002	472
+	Washington	53	2003	2003	459
+	Washington	53	2004	2004	487
+	Washington	53	2005	2005	528
+	Washington	53	2006	2006	525
+	Washington	53	2007	2007	567
+	Washington	53	2008	2008	588
+	Washington	53	2009	2009	583
+	Washington	53	2010	2010	591
+	Washington	53	2011	2011	618
+	Washington	53	2012	2012	643
+	Washington	53	2013	2013	661
+	Washington	53	2014	2014	664
+	Washington	53	2015	2015	755
+	Washington	53	2016	2016	737
+	Washington	53	2017	2017	782
+	Washington	53	2018	2018	810
+	Washington	53	2019	2019	854
+	West Virginia	54	1999	1999	242
+	West Virginia	54	2000	2000	232
+	West Virginia	54	2001	2001	238
+	West Virginia	54	2002	2002	224
+	West Virginia	54	2003	2003	218
+	West Virginia	54	2004	2004	261
+	West Virginia	54	2005	2005	265
+	West Virginia	54	2006	2006	278
+	West Virginia	54	2007	2007	288
+	West Virginia	54	2008	2008	325
+	West Virginia	54	2009	2009	303
+	West Virginia	54	2010	2010	327
+	West Virginia	54	2011	2011	287
+	West Virginia	54	2012	2012	323
+	West Virginia	54	2013	2013	311
+	West Virginia	54	2014	2014	282
+	West Virginia	54	2015	2015	282
+	West Virginia	54	2016	2016	294
+	West Virginia	54	2017	2017	289
+	West Virginia	54	2018	2018	277
+	West Virginia	54	2019	2019	317
+	Wisconsin	55	1999	1999	409
+	Wisconsin	55	2000	2000	422
+	Wisconsin	55	2001	2001	452
+	Wisconsin	55	2002	2002	415
+	Wisconsin	55	2003	2003	456
+	Wisconsin	55	2004	2004	498
+	Wisconsin	55	2005	2005	495
+	Wisconsin	55	2006	2006	466
+	Wisconsin	55	2007	2007	527
+	Wisconsin	55	2008	2008	542
+	Wisconsin	55	2009	2009	549
+	Wisconsin	55	2010	2010	555
+	Wisconsin	55	2011	2011	618
+	Wisconsin	55	2012	2012	572
+	Wisconsin	55	2013	2013	578
+	Wisconsin	55	2014	2014	676
+	Wisconsin	55	2015	2015	672
+	Wisconsin	55	2016	2016	671
+	Wisconsin	55	2017	2017	658
+	Wisconsin	55	2018	2018	696
+	Wisconsin	55	2019	2019	693
+	Wyoming	56	1999	1999	48
+	Wyoming	56	2000	2000	41
+	Wyoming	56	2001	2001	54
+	Wyoming	56	2002	2002	50
+	Wyoming	56	2003	2003	42
+	Wyoming	56	2004	2004	52
+	Wyoming	56	2005	2005	47
+	Wyoming	56	2006	2006	65
+	Wyoming	56	2007	2007	55
+	Wyoming	56	2008	2008	66
+	Wyoming	56	2009	2009	66
+	Wyoming	56	2010	2010	86
+	Wyoming	56	2011	2011	71
+	Wyoming	56	2012	2012	62
+	Wyoming	56	2013	2013	75
+	Wyoming	56	2014	2014	76
+	Wyoming	56	2015	2015	77
+	Wyoming	56	2016	2016	52
+	Wyoming	56	2017	2017	60
+	Wyoming	56	2018	2018	70
+	Wyoming	56	2019	2019	76
+---					
+"Dataset: Underlying Cause of Death, 1999-2019"					
+Query Parameters:					
+ICD-10 Codes: J00-J06 (Acute upper respiratory infections); J30-J39 (Other diseases of upper respiratory tract); J67.0 (Farmer					
+lung); J67.1 (Bagassosis); J67.2 (Bird fancier lung); J67.3 (Suberosis); J67.4 (Maltworker lung); J67.5 (Mushroom-worker lung);					
+J67.6 (Maple-bark-stripper lung); J67.7 (Air-conditioner and humidifier lung); J67.8 (Hypersensitivity pneumonitis due to other					
+organic dusts); J67.9 (Hypersensitivity pneumonitis due to unspecified organic dust); J70.0 (Acute pulmonary manifestations due					
+to radiation); J70.1 (Chronic and other pulmonary manifestations due to radiation); J70.2 (Acute drug-induced interstitial lung					
+"disorders); J70.3 (Chronic drug-induced interstitial lung disorders); J70.4 (Drug-induced interstitial lung disorders,"					
+unspecified); J70.8 (Respiratory conditions due to other specified external agents); J70.9 (Respiratory conditions due to					
+unspecified external agent); J80-J84 (Other respiratory diseases principally affecting the interstitium); J85-J86 (Suppurative					
+and necrotic conditions of lower respiratory tract); J90-J94 (Other diseases of pleura); J96-J98 (Other diseases of the					
+respiratory system)					
+Group By: State; Year					
+Show Totals: False					
+Show Zero Values: True					
+Show Suppressed: True					
+"Calculate Rates Per: 100,000"					
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)					
+---					
+Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.					
+---					
+"Query Date: Dec 28, 2020 1:22:47 PM"					
+---					
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"					
+"1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as"					
+compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed					
+"at http://wonder.cdc.gov/ucd-icd10.html on Dec 28, 2020 1:22:47 PM"					
+---					
+Caveats:					
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"					
+http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision.					
+2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of					
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."					
+More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies.					
+3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code					
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"					
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"					
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies.					
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"					
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"					
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies.					
+5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:					
+http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable.					
+"6. The population figures for year 2019 are bridged-race estimates of the July 1 resident population, from the Vintage 2019"					
+"postcensal series released by NCHS on July 9, 2020. The population figures for year 2018 are bridged-race estimates of the July"					
+"1 resident population, from the Vintage 2018 postcensal series released by NCHS on June 25, 2019. The population figures for"					
+"year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017 postcensal series released by NCHS"					
+"on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the"					
+"Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race"					
+"estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The"					
+"population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal"					
+"series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident"					
+"population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are"					
+"bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13,"					
+"2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011"					
+"postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"					
+"figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal"					
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."					
+Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age					
+groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from					
+"previously published reports, due to use of the population estimates which were available at the time of release."					
+7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the					
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group.					
+8. Changes to cause of death classification affect reporting trends. More information:					
+http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes.					

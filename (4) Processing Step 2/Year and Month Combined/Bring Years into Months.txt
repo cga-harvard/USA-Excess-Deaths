@@ -1,0 +1,18 @@
+Sub Copy_From_All_Workbooks()
+    Dim wb As String, i As Long, sh As Worksheet
+    Application.ScreenUpdating = False
+    wb = Dir(ThisWorkbook.Path & "\*")
+    Do Until wb = ""
+        If wb <> ThisWorkbook.Name Then
+            Workbooks.Open ThisWorkbook.Path & "\" & wb
+                For Each sh In Workbooks(wb).Worksheets
+                        sh.UsedRange.Copy    '<---- Includes all header row(s) if any
+                            ThisWorkbook.Sheets(sh.Name).Cells(Columns.Count, 14).End(xlUp).PasteSpecial xlPasteValues
+                        Application.CutCopyMode = False
+                Next sh
+            Workbooks(wb).Close False
+        End If
+        wb = Dir
+    Loop
+    Application.ScreenUpdating = True
+End Sub
