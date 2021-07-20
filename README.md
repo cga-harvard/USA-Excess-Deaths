@@ -1,2 +1,2 @@
-# USA-Excess-Deaths
-This is the official GitHub repository of the Excess Death team!
+# USA Excess Deaths
+In this repository, you can find all the data processing scripts and final data that is on the final dashboard at the following URL: https://tiny.cc/CGADeath.
