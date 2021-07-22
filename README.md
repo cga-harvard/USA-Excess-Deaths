@@ -11,7 +11,7 @@ The final data is at `Underlying Dashboard Data.xlsx`.
 ## Citation
 Please use the following citation if you will use this data.
 
-Citation: [COMING SOON]
+Citation: Akhil Kumar, Vansh Tibreal (2021) USA Excess Deaths for Specfic Causes of Death, https://github.com/cga-harvard/USA-Excess-Deaths/
 
 ## Authors
 
