@@ -16,4 +16,4 @@ Please use the following citation if you will use this data.
 ## Authors
 
 - [Akhil Kumar](https://twitter.com/AkhilK28)
-- [Vansh Tibrewal](https://github.com/Vansh-T)
+- [Vansh Tibrewal](https://github.com/vanshtibrewal)
